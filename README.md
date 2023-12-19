@@ -1,4 +1,7 @@
-### Hi there! 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!&fontSize=50&fontAlignY=35" />
+
+
+
 
 <!--
 **wowssun/wowssun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,5 +17,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
  
+ ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wowssun&theme=nord_bright)
   
+</div>
