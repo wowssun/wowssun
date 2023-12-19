@@ -1,7 +1,7 @@
 <!-- 2023.12.19 -->
 
 <!-- title -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!&fontSize=50&fontAlignY=35" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,18,19,20,24&height=200&section=header&text=Hello!&fontSize=50&fontAlignY=35" />
 
 <!-- main -->
 <div align="center">
