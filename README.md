@@ -27,8 +27,9 @@
   <br> 
      
    <!-- blog -->
-  <h3>😀 <samp>Blog</samp> 😀</h3>  
-   <a href="https://wow-dev-archive.vercel.app/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/WOW's%20dev%20archive-000000?style=flat-square&logo=vercel&logoColor=FFFFFF">
+  <h3>😀 <samp>Blog</samp> 😀</h3> 
+     <samp>블로그 공사중</samp> 
+ <!-- <a href="https://wow-dev-archive.vercel.app/" target="_blank"><img alt="Static Badge" src="https://img.shields.io/badge/WOW's%20dev%20archive-000000?style=flat-square&logo=vercel&logoColor=FFFFFF">-->
   </a>
   <br>
   <hr>
