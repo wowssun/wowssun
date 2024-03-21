@@ -28,9 +28,9 @@
      
    <!-- blog -->
   <h3>😀 <samp>Blog</samp> 😀</h3> 
-    <a href="https://wowssun.hashnode.dev/">
+  <!--  <a href="https://wowssun.hashnode.dev/">
       <img src="https://img.shields.io/badge/WOW's dev archive-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">     
-  </a>
+  </a>-->
   <br>
   <hr>
 
