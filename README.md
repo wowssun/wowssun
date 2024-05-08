@@ -34,8 +34,8 @@
   <br>
   <hr>
 
-<!-- gihub summary -->
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wowssun&theme=nord_bright)
+<!-- gihub summary 
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wowssun&theme=nord_bright)-->
    
 </div>
 
@@ -53,4 +53,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-ddddd
