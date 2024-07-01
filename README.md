@@ -1,4 +1,4 @@
-<!-- 2023.12.19 -->
+<!-- 2024.07.01 -->
 
 <!-- title -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,15,18,19,20,24&height=200&section=header&text=Hello!&fontSize=50&fontAlignY=35" />
@@ -28,14 +28,14 @@
      
    <!-- blog -->
   <h3>😀 <samp>Blog</samp> 😀</h3> 
-  <!--  <a href="https://wowssun.hashnode.dev/">
+    <a href="https://wowssun.hashnode.dev/">
       <img src="https://img.shields.io/badge/WOW's dev archive-2962FF?style=for-the-badge&logo=hashnode&logoColor=white">     
-  </a>-->
+  </a>
   <br>
-  <hr>
+  
 
-<!-- gihub summary 
-  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wowssun&theme=nord_bright)-->
+<!-- gihub summary
+  <img src="https://github-readme-stats.vercel.app/api?username=wowssun&show_icons=true&theme=holi&count_private=true">-->
    
 </div>
 
